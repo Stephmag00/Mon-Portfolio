@@ -1,4 +1,4 @@
-# 🚀 Portfolio de Stéphane MAGERANO
+#Portfolio de Stéphane MAGERANO
 
 Bienvenue sur le dépôt de mon portfolio personnel ! Ce site a été conçu pour présenter mon univers créatif, mes compétences techniques et mes réalisations en tant que *Développeur & Designer*.
 
